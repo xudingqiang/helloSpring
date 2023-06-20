@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T03:04:03.517Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ioc0oNSZOe7nUqKsWrWR" version="21.1.5" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-06-20T12:03:18.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="C4V4vFxMp6wHg6mYYYPs" version="21.1.5" type="github" pages="21">
   <diagram name="第 1 页" id="QrV2DakNx99cpBcxgZz8">
     <mxGraphModel dx="1434" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1497,7 +1497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术架构" id="ii_p_HaxoYcaum8Zh4P_">
-    <mxGraphModel dx="2261" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Na4ltJOUoK1JcN85Lfos-0" />
         <mxCell id="Na4ltJOUoK1JcN85Lfos-1" parent="Na4ltJOUoK1JcN85Lfos-0" />
@@ -1660,7 +1660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="功能框架" id="lNAMX6M38WOT-EoDbj80">
-    <mxGraphModel dx="954" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="1434" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1831,7 +1831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="拧紧中控技术架构" id="53Y3w-JuJVJzpE2RY1ZZ">
-    <mxGraphModel dx="2726" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Na4ltJOUoK1JcN85Lfos-0" />
         <mxCell id="Na4ltJOUoK1JcN85Lfos-1" parent="Na4ltJOUoK1JcN85Lfos-0" />
@@ -1950,7 +1950,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ycLeoEMcn62pdvmo3ndT" name="拧紧数据流架构图">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2015,11 +2015,85 @@
         <mxCell id="1dQprEIAn-YYfsYt7pCx-29" value="SAP" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" parent="1" vertex="1">
           <mxGeometry x="740" y="240" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N1bEDTpkSnN3hzVsMkH8-1" target="N1bEDTpkSnN3hzVsMkH8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="730" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-2" value="拧紧中控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="810" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N1bEDTpkSnN3hzVsMkH8-3" target="N1bEDTpkSnN3hzVsMkH8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="640" y="550" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N1bEDTpkSnN3hzVsMkH8-5" target="N1bEDTpkSnN3hzVsMkH8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-5" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="730" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-6" value="数采" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="615" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N1bEDTpkSnN3hzVsMkH8-7" target="N1bEDTpkSnN3hzVsMkH8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-8" value="MES/IOT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="625" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-15" value="MQTT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-16" value="MQTT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-17" value="restful" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-18" value="restful" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bnw/128x128/devices/pda_blue.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="950" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-20" value="pda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1008" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-23" value="Phone" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="960" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-24" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.phone;part=1;" vertex="1" parent="N1bEDTpkSnN3hzVsMkH8-23">
+          <mxGeometry x="0.5" width="32" height="50" relative="1" as="geometry">
+            <mxPoint x="-16" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-26" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="244" y="940" as="sourcePoint" />
+            <mxPoint x="344" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1bEDTpkSnN3hzVsMkH8-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="580" y="970" as="sourcePoint" />
+            <mxPoint x="510" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jhNUl9FkDranrMd-dsEK" name="拧紧中控业务架构图">
-    <mxGraphModel dx="1363" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
